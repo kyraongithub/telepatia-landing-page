@@ -8,3 +8,10 @@ $medpur: #b4b5c9;
 $lilpur: #f9f9fb;
 $newpur: #9b9cb7;
 $supportpur: #b19fff;
+
+.navbar-tp {
+  padding-top: 30px;
+  .active {
+    color: $purple !important;
+  }
+}
